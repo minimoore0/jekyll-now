@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, my name is Joe Moore, and i'm an extremely tiny human being
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+I'M VERY SMALL!!!!!
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[joe.moore@challoners.org](mailto:email@domain.com)
